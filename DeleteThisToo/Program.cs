@@ -10,6 +10,8 @@ namespace DeleteThisToo
     {
         static void Main(string[] args)
         {
+            //comment
+            Console.WriteLine("GitThisGitHub");
         }
     }
 }

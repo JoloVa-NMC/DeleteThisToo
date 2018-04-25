@@ -10,6 +10,7 @@ namespace DeleteThisToo
     {
         static void Main(string[] args)
         {
+            //HaHAA
             Console.WriteLine("Get Money");
         }
     }
